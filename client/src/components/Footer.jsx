@@ -14,7 +14,7 @@ export default function Footer() {
           <div>Vihim Steel Compound, Nr. Sureliya Estate, Nr. Gita Park, Vastral Road, Amraiwadi, Ahmedabad-380026</div>
           <div className="mt-2">
             Contact: <a href="tel:09898146433" className="text-primary hover:underline">+91-9898146433</a> | 
-            <a href="tel:09427156433" className="ml-2 text-primary hover:underline">+91-9427156433</a>
+            <a href="tel:08980027028" className="ml-2 text-primary hover:underline">+91-8980027028</a>
           </div>
           <div>
             Email: <a href="mailto:manishindustries2312@gmail.com" className="text-primary hover:underline">manishindustries2312@gmail.com</a>

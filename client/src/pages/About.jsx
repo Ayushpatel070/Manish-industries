@@ -2,7 +2,7 @@ import Container from "../components/Container";
 
 const ADDRESS = "Vihim Steel Compound, Nr. Sureliya Estate, Nr. Gita Park, Vastral Road, Amraiwadi, Ahmedabad-380026";
 const PHONE1 = "+91-9898146433";
-const PHONE2 = "+91-9427156433";
+const PHONE2 = "+91-8980027028";
 const EMAIL = "manishindustries2312@gmail.com";
 
 export default function About() {
